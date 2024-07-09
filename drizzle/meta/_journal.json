@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1718604374061,
+      "tag": "0000_common_ben_parker",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1718694955388,
+      "tag": "0001_white_krista_starr",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1719820041784,
+      "tag": "0002_tense_black_widow",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1719846793052,
+      "tag": "0003_lovely_stephen_strange",
+      "breakpoints": true
+    }
+  ]
+}
